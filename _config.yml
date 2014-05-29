@@ -1,0 +1,11 @@
+# Site settings
+title: elliott.codes
+email: elliott.codes@gmail.com
+username: maxdeviant
+description: ""
+baseurl: ""
+url: "elliott.codes"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
