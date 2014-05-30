@@ -1,11 +1,17 @@
-# Site settings
-title: elliott.codes
-email: elliott.codes@gmail.com
-username: maxdeviant
-description: ""
-baseurl: ""
-url: "elliott.codes"
+# Dependencies
+markdown: redcarpet
+hightlighter: pygments
 
-# Build settings
-markdown: kramdown
+# Permalinks
 permalink: pretty
+
+# Site settings
+title: Marshall Bowers
+tagline: ''
+description: ''
+url: http://elliott.codes
+
+author:
+  name: maxdeviant
+
+paginate: 5
