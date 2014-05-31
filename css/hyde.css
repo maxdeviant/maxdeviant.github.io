@@ -271,3 +271,11 @@ a.sidebar-nav-item:focus {
  .copy {
   font-size: .6rem;
  }
+
+ /*
+  * Social
+  */
+
+.fa-twitter:hover { color: #2fc2ef; }
+.fa-github:hover { color: #b9b9b9; }
+.fa-linkedin:hover { color: #0077b5; }
