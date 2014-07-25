@@ -3,21 +3,10 @@ layout: page
 title: About
 ---
 
-{% highlight json %}
+My name is Marshall Bowers.
 
-{
-	"name": "marshall elliott bowers",
-	"education": {
-		"school": "west chester university",
-		"major": "computer science",
-		"year": "junior"
-	},
-	"properties": [
-		"minimalist",
-		"insatiable intellectual",
-		"voracious programmer",
-		"aspiring game developer"
-	]
-}
+I am an individual with eclectic tastes.
 
-{% endhighlight %}
+I enjoy writing things. Namely code.
+
+Currently pursuing a Bachelor of Computer Science at West Chester University.
